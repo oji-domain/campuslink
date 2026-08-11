@@ -1,0 +1,14 @@
+Repository structure should reflect actual code.
+
+Example:
+
+campuslink/
+├── README.md
+├── client/
+├── server/
+├── .github/
+│   └── workflows/
+├── docs/
+└── screenshots/
+
+Never commit database credentials.
