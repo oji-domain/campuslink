@@ -1,0 +1,3 @@
+Campus information and community workflows can become fragmented across different systems.
+
+CampusLink explores a centralized full-stack platform using a React frontend, Node.js backend, MongoDB data layer, and automated CI/CD workflow.
